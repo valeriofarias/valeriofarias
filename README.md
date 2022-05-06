@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @valeriofarias
-- 👀 I’m interested in projects using Python
-- 🌱 I’m currently learning Python and Django
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m interested in projects using Ruby and Ruby on Rails
 - 📫 How to reach me: valeriofc [at] gmail [.] com
 
 <!---
