@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @valeriofarias
-- 👀 I’m interested in projects using Ruby, C#, Python and Javascript
+- 👀 I’m interested in projects using Ruby, C# and Javascript
 - 📫 How to reach me: valeriofc [at] gmail [.] com
 
 <!---
